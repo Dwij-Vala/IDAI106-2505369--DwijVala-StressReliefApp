@@ -7,8 +7,11 @@
 ## Student Details
 
 **Name:** Dwij Vala
+
 **Student Code:** 2505369
+
 **CRS Name:** Artificial Intelligence
+
 **Course Name:** Design Thinking for Innovation
 
 ---
